@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "homework-assistant": {
+            "command": "uv",
+            "args": ["run", "main.py"]
+        }
+    }
+}
